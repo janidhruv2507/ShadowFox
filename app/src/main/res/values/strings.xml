@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="_backspace"><![CDATA[>]]></string>
+    <string name="c">C</string>
+    <string name="_per">%</string>
+    <string name="_div">/</string>
+    <string name="_7">7</string>
+    <string name="app_name" />
+</resources>
